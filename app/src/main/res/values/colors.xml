@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="color_environment_severe">#D81B60</color>
+    <color name="color_environment_excellent">#D81B60</color>
+    <color name="color_environment_good">#D81B60</color>
+    <color name="color_environment_moderate">#D81B60</color>
+    <color name="color_environment_serious">#D81B60</color>
+    <color name="color_environment_mild">#D81B60</color>
+
+    <color name="color2395FF">#2395FF</color>
+    <color name="color2376FF">#D81B60</color>
+</resources>
